@@ -1,0 +1,19 @@
+<!-- Type Question 1 Answer Below -->
+
+" <!doctype html>"
+
+<!-- Type Question 2 Answer Below -->
+
+" Quirks Mood"
+
+<!-- Type Question 3 Answer Below -->
+
+"Yes"
+
+<!-- Type Question 4 Answer Below -->
+
+"NO"
+
+<!-- Type Question 5 Answer Below -->
+
+" h1,h2,h3... : heading tags from bigest to the smallest"

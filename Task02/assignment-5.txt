@@ -1,0 +1,16 @@
+
+title        : global attribute
+
+href        : not a global attribute
+
+src          : not a global attribute
+
+hidden   : global attribute
+
+charset  : not a global attribute
+
+class       :global attribute
+
+id             : global attribute
+
+type         :global attribute

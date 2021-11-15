@@ -1,0 +1,22 @@
+<!--
+<p>Hello World</p>
+
+<p>
+Hello World
+</p>
+
+<p>
+Hello
+World
+</p>
+
+<p>
+Hello
+
+
+World
+</p>
+
+-->
+
+> No , because the browser can't see the white spaces 
