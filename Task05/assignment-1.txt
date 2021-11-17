@@ -1,0 +1,16 @@
+Are these elements in HTML yes | no
+-Header             : yes
+-Nav                   : yes
+-Main                : yes
+-Aside                : yes
+-Picture            : no
+-Figure              : yes
+-Footer              : yes
+-FigCaption     : no
+-Section            : yes 
+-Command      : no
+-Ruby                : no
+-Data                : no
+-Article             : yes
+-Install             : no
+-Text                  :yes
