@@ -1,0 +1,24 @@
+______________<!--assignment 1 -->________________
+1- <input type="submit" name="sub">.
+2-<title></title>.
+3-<h1></h1>.
+4-<p></p>.
+5-<html lang="en"></html>.
+6- in the Accessibility world : (10 To 20) better than (10 – 20).
+7-<div tabindex="0">content</div>.
+8- Aria : is a set of attributes that yoiu can add to html to makes web content
+ accissible to USERS with disabilities.
+______________<!--assignment 2 -->________________
+
+<div class="choose-skill" role="checkbox">
+
+  <div id="Skl1" class="skill" tabindex="0">Python</div>
+  <label for="Skl1">Skill One</label>
+
+  <div id="Skl1" class="skill" tabindex="0">PHP</div>
+  <label for="Skl2">Skill Two</label>
+
+  <div id="Skl1" class="skill" tabindex="0">JavaScript</div>
+  <label for="Skl3">Skill Three</label>
+
+</div>
